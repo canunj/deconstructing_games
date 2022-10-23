@@ -9,9 +9,11 @@ Data Code File - Originally created by N. Canu for The Impact of Crowdfunding on
 
 Milestone_2 Workbook - IPYNB covering data cleaning, text processing, decomposition, topic modeling, document similarity, and stage 2 regression models.
 
-Supervised_section_mile2 Workbook - IPYNB covering stage 1 regression models and associated feature analysis, and classification models.
+Supervised_notebook - IPYNB covering stage 1 regression models, classification models, and tuning + feature analysis for both.
 
-Milestone_2_title_generator_FINAL Workbook - IPYNB covering NLP text generator for making game titles from text descriptions.
+Supervised_section_mile2 Workbook - IPYNB covering stage 1 regression models, classification models, and some work on text generation.
+
+Milestone_2_title_generator_FINAL Workbook - IPYNB covering full NLP text generator for making game titles from text descriptions.
 
 Generator_Assets - All files + models used in the text generator workbook
 
