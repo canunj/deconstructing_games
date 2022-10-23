@@ -1,3 +1,5 @@
+Code file licensed and remixed from The Impact of Crowdfunding on Board Games - see main Readme
+
 'bgg_id' - Unique id assigned at game creation (order submitted to BGG database)
 
 'name' - Game title (typically original language)
